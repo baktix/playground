@@ -1,0 +1,22 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "General tooling around",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/baktix/playground.git"
+  },
+  "keywords": [
+    "Nonsense"
+  ],
+  "author": "baktix",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/baktix/playground/issues"
+  },
+  "homepage": "https://github.com/baktix/playground#readme"
+}
